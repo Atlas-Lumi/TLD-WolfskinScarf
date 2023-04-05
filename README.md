@@ -12,4 +12,4 @@
 * Move `WolfskinScarf.modcomponent` to your /mods folder
 
 ## Required Mods
-* [ModComponent](https://github.com/ds5678/ModComponent)
+* [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies
