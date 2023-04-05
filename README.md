@@ -8,8 +8,5 @@
 
 ## Installation
 * Download and install [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-* Install [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies
+* Install [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies
 * Move `WolfskinScarf.modcomponent` to your /mods folder
-
-## Required Mods
-* [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies
